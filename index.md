@@ -4,5 +4,5 @@ SocanCode已开源，请访问[这里](https://github.com/liaoyungchun/SocanCode
 
 socansoft.com将于2019-08-28到期，本人博客地址请直接使用 [liaoyungchun.github.io]( http://liaoyungchun.github.io/) 访问。
 
-工业和信息化部备案管理系统网站 [辽ICP备18017601号](http://www.beian.miit.gov.cn)
+工业和信息化部备案管理系统网站 [辽ICP备18017601号-1](http://beian.miit.gov.cn/)
 
