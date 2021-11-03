@@ -8,11 +8,11 @@
 
    > 注：以下软件和系统镜像均可在 <a href="https://pan.baidu.com/s/1GZUCiqoTC3F4mAUVuYkgDw" target='_blank'>百度网盘</a>下载，提取码：1234 
 
-   * 下载再生龙，得到一个iso文件。*也可从[官方下载](http://clonezilla.nchc.org.tw/clonezilla-live/download/)*
+   * 下载再生龙，得到一个iso文件。*也可从<a href="http://clonezilla.nchc.org.tw/clonezilla-live/download/" target="_blank">官方下载</a>*
 
    ![img](index.assets/clip_image002.png)
 
-   * 下载rufus，便携版无需安装。*也可从[官方下载](http://rufus.ie/zh/)*
+   * 下载rufus，便携版无需安装。*也可从<a href="http://rufus.ie/zh/" target="_blank">官方下载</a>*
 
    ![img](index.assets/clip_image004.png)
 
