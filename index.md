@@ -2,7 +2,7 @@
 title: my web index 首页
 ---
 
-网站尚未开通。
+[socancode](socancode.md)
 
 
 
