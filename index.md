@@ -1,5 +1,5 @@
 ---
-title: my web index 首页
+title: index 首页
 ---
 
 [socancode](socancode.md)
