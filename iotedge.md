@@ -8,29 +8,31 @@ title: IOT EDGE部署配置手册
 
 1. 软件及系统镜像准备
 
-   > 注：以下软件和系统镜像均可在 <a href="https://pan.baidu.com/s/1GZUCiqoTC3F4mAUVuYkgDw" target='_blank'>百度网盘</a>下载，提取码：1234 
+   * <a href="http://clonezilla.nchc.org.tw/clonezilla-live/download/" target="_blank">从官方下载再生龙</a>，得到一个iso文件。本人是按如下所示下载的。
 
-   * 下载再生龙，得到一个iso文件。*也可从<a href="http://clonezilla.nchc.org.tw/clonezilla-live/download/" target="_blank">官方下载</a>*
+     > ![clip_image002](iotedge.assets/clip_image002.png)
 
-   ![img](iotedge.assets/clip_image002.png)
+     > ​	![image-20220204224307143](iotedge.assets/image-20220204224307143.png)
 
-   * 下载rufus，便携版无需安装。*也可从<a href="http://rufus.ie/zh/" target="_blank">官方下载</a>*
+   * <a href="http://rufus.ie/zh/" target="_blank">从官方下载refus</a>，便携版无需安装。本人是按如下所示下载的。
 
-   ![img](iotedge.assets/clip_image004.png)
+     > ​	![image-20220204224804641](iotedge.assets/image-20220204224804641.png)
 
-   * 下载系统镜像，一个镜像即为一个文件夹，可下多个镜像，恢复时可自由选择系统。
+     > ​	![image-20220204224845087](iotedge.assets/image-20220204224845087.png)
 
-   ![img](iotedge.assets/clip_image006.png)
+   * <a href="https://www.aliyundrive.com/s/EBtqPevn5T6">从阿里网盘下载系统镜像</a>，一个镜像即为一个文件夹，可下多个镜像，恢复时可自由选择系统。
+
+     > ​	![image-20220204225427074](iotedge.assets/image-20220204225427074.png)
 
 2. 开始制作
 
-   插入优盘，打开rufus，镜像选择 `clonezilla***.iso`，其它按默认即可制作一个启动优盘。
+   插入优盘，打开rufus，镜像选择 `clonezilla-***.iso`，其它按默认即可制作一个启动优盘。
 
-   ![img](iotedge.assets/clip_image002-1635930068849.png)
+   > ​	![image-20220204230310595](iotedge.assets/image-20220204230310595.png)
 
    完成后将需要的 `系统镜像文件夹` 拷贝到优盘根目录中。最终优盘内容大概如下：
 
-   ![img](iotedge.assets/clip_image004-1635930068850.png)
+   > ​	![img](iotedge.assets/clip_image004-1635930068850.png)
 
    选中的几个文件夹都是系统镜像，优盘中可放多个镜像。做系统时可选择要恢复的系统。
 
