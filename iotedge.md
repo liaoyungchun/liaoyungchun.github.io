@@ -20,7 +20,7 @@ title: IOT EDGE部署配置手册
 
      > ​	![image-20220204224845087](iotedge.assets/image-20220204224845087.png)
 
-   * <a href="https://www.aliyundrive.com/s/EBtqPevn5T6" target="_blank">从阿里网盘下载系统镜像</a>，一个文件夹即为一个镜像，可下多个镜像（只要优盘容量足够），恢复时可自由选择系统。
+   * <a href="https://pan.baidu.com/s/1GZUCiqoTC3F4mAUVuYkgDw" target="_blank">从百度网盘下载系统镜像</a>（提取码：1234），一个文件夹即为一个镜像，可下多个镜像（只要优盘容量足够），恢复时可自由选择系统。
 
      > ​	![image-20220204225427074](iotedge.assets/image-20220204225427074.png)
 
