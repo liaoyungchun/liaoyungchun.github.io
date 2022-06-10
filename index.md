@@ -2,9 +2,9 @@
 title: index 首页
 ---
 
-[socancode](socancode.md)
+[SocanCode](socancode.md)
 
-[iotedge](iotedge.md)
+[IotEdge](iotedge.md)
 
 <hr />
 
