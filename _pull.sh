@@ -1,4 +1,4 @@
 #!/bin/bash
-echo ---pull from gitee dev---
+echo ---pull from origin master---
 git pull origin master
 read -p "Press any key to continue." 
