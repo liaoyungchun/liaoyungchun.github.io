@@ -118,6 +118,10 @@ title: IOT EDGE部署配置手册
     * 升级nvidia显卡驱动为470.82，适配GTX3060
   * v5.5
     * 升级iothub（v1.0），增加运维面板
+  * v5.6
+    * 定制系统开机画面，桌面...
+    * 安装redis
+    * 删除 software & update，禁用更新提醒
 
 
 <hr />
