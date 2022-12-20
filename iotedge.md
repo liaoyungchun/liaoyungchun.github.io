@@ -123,7 +123,3 @@ title: IOT EDGE部署配置手册
     * 集成 redis
     * 删除 software & update，禁用更新提醒
 
-
-<hr />
-工业和信息化部备案管理系统网站 <a href="http://beian.miit.gov.cn/" target="_blank">辽ICP备18017601号-1</a> 
-
