@@ -122,4 +122,7 @@ title: IOT EDGE部署配置手册
     * 定制系统开机画面，桌面...
     * 集成 redis
     * 删除 software & update，禁用更新提醒
-
+  * v5.7
+    * 支持远程桌面访问
+    * 网络管理切换为NetworkManager
+    * 支持连接PEAP无线网络的认证方式
